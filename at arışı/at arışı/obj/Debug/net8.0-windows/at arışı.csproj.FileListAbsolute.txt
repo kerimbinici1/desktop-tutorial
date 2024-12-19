@@ -1,0 +1,17 @@
+C:\Users\kerim\source\repos\at arışı\at arışı\bin\Debug\net8.0-windows\at arışı.exe
+C:\Users\kerim\source\repos\at arışı\at arışı\bin\Debug\net8.0-windows\at arışı.deps.json
+C:\Users\kerim\source\repos\at arışı\at arışı\bin\Debug\net8.0-windows\at arışı.runtimeconfig.json
+C:\Users\kerim\source\repos\at arışı\at arışı\bin\Debug\net8.0-windows\at arışı.dll
+C:\Users\kerim\source\repos\at arışı\at arışı\bin\Debug\net8.0-windows\at arışı.pdb
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\at_arışı.Form1.resources
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\at_arışı.Properties.Resources.resources
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\at arışı.csproj.GenerateResource.cache
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\at arışı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\at arışı.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\at arışı.AssemblyInfo.cs
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\at arışı.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\at arışı.dll
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\refint\at arışı.dll
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\at arışı.pdb
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\at arışı.genruntimeconfig.cache
+C:\Users\kerim\source\repos\at arışı\at arışı\obj\Debug\net8.0-windows\ref\at arışı.dll
